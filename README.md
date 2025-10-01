@@ -1,2 +1,53 @@
-# Eurus-Concept---Growth-Funnel-Optimization-Project
-End-to-end Growth Experimentation Cases built on synthetic datasets for Eurus Concept. Covers funnel analysis, attribution, paid acquisition, and CRO using GA4, GTM, Hotjar, Zapier/Make, and Looker Studio.
+# Growth Analytics Case: Eurus Concept  
+
+This repository is a **synthetic growth case study** for *Eurus Concept*, built with **GA4, GTM, Hotjar, Looker Studio, and Zapier/Make**.  
+It demonstrates how to run a growth diagnostic, design experiments, and visualize impact in a structured workflow.  
+
+---
+
+## Contents  
+- **exp001_looker.png** → Funnel & CAC/ROAS dashboard from Looker Studio  
+- **hotjar_report_exp001.pdf** → Heatmap & behavior insights (synthetic Hotjar analysis)  
+- **gtm_report_exp001.md** → Event tracking audit & recommendations (synthetic GTM report)  
+- **anomaly_list.csv** → Daily CAC/conversion anomalies  
+
+---
+
+## Methodology  
+
+1. **Acquisition Diagnostic**  
+   - Metrics: CAC, ROAS, ARPU, CTR  
+   - Methods: Incrementality test (geo-holdout), attribution model comparison  
+
+2. **Funnel Diagnostic**  
+   - Funnel: Session → Signup → Activation → Purchase  
+   - Metrics: Signup CR, Activation CR, Purchase CR  
+   - Guardrails: Bounce rate, latency, churn  
+
+3. **Behavioral Insights**  
+   - Hotjar heatmaps → Identified checkout friction (shipping fee bottleneck)  
+   - Survey triggers → 25% complain about “unexpected fees”  
+
+4. **Tracking Audit**  
+   - GTM setup checked for missing events (checkout_error, kyc_fail)  
+   - CUPED adjustment prepared for variance reduction  
+
+---
+
+## Key Findings  
+
+- **Bottleneck** → Activation to Purchase step (shipping fee friction).  
+- **Channel efficiency** → TikTok Mobile had lower CAC vs Meta Mobile.  
+- **Seasonality** → Revenue spikes early in the month (promotion impact).  
+
+---
+
+## Tools Used  
+- **GA4** → Traffic & conversion metrics  
+- **GTM** → Event tracking & attribution  
+- **Hotjar** → Heatmap & session recordings  
+- **Looker Studio** → Funnel dashboards & anomaly detection  
+- **Zapier/Make** → Workflow automation (alerts, reporting)  
+- **GitHub** → Repository for synthetic case study  
+
+---
