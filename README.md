@@ -6,7 +6,7 @@ It demonstrates how to run a growth diagnostic, design experiments, and visualiz
 ---
 
 ## Contents  
-- **exp001_looker.png** → Funnel & CAC/ROAS dashboard from Looker Studio  
+- **exp001_looker.png** → Funnel & CAC/ROAS dashboard from Looker Studio  ![Eurus-Concept---Growth-Funnel-Optimization-Project](/Eurus_Looker_.pdf)
 - **hotjar_report_exp001.pdf** → Heatmap & behavior insights (synthetic Hotjar analysis)  
 - **gtm_report_exp001.md** → Event tracking audit & recommendations (synthetic GTM report)  
 
