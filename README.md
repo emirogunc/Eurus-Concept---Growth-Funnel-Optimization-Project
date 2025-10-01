@@ -15,7 +15,7 @@ It demonstrates how to run a growth diagnostic, design experiments, and visualiz
 ## Methodology  
 
 1. **Acquisition Diagnostic**  
-   - Metrics: CAC, ROAS, ARPU, CTR  
+   - Metrics: CAC, ROAS, ARPU
    - Methods: Incrementality test (geo-holdout), attribution model comparison  
 
 2. **Funnel Diagnostic**  
@@ -29,7 +29,7 @@ It demonstrates how to run a growth diagnostic, design experiments, and visualiz
 
 4. **Tracking Audit**  
    - GTM setup checked for missing events (checkout_error, kyc_fail)  
-   - CUPED adjustment prepared for variance reduction  
+ 
 
 ---
 
