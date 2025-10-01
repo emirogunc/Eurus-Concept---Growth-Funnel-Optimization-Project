@@ -9,7 +9,6 @@ It demonstrates how to run a growth diagnostic, design experiments, and visualiz
 - **exp001_looker.png** → Funnel & CAC/ROAS dashboard from Looker Studio  
 - **hotjar_report_exp001.pdf** → Heatmap & behavior insights (synthetic Hotjar analysis)  
 - **gtm_report_exp001.md** → Event tracking audit & recommendations (synthetic GTM report)  
-- **anomaly_list.csv** → Daily CAC/conversion anomalies  
 
 ---
 
