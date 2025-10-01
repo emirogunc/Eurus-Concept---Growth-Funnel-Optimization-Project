@@ -1,0 +1,16 @@
+README.md                  → Projenin açıklaması (ingilizce, hazır şablonu verdim)
+│
+├── data/
+│   └── eurus_synthetic.csv    → Senin bana verdiğin örnek trafik + funnel datası
+│
+├── reports/
+│   ├── exp001_looker.png      → Looker Studio’dan alınmış dashboard ekran görüntüsü
+│   ├── exp001_hotjar.pdf      → Hotjar ısı haritası / session recording raporu (sentetik olabilir)
+│   ├── exp001_gtm.pdf         → Google Tag Manager setup/trigger raporu (sentetik olabilir)
+│   └── exp001_make_zapier.pdf → Make/Zapier workflow diagramı (otomasyon)
+│
+├── notebooks/
+│   └── exp001_analysis.ipynb  → Eğer basit bir Python / Colab analizi koymak istersen
+│
+└── insights/
+    └── exp001_summary.md      → Senin biraz önce yaptığın analiz + “Next Steps” aksiyon planı
