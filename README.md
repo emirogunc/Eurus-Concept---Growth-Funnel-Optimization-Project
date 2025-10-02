@@ -1,53 +1,30 @@
-# Growth Analytics Case: Eurus Concept  
+# Eurus Growth Lab
 
-This repository is a **synthetic growth case study** for *Eurus Concept*, built with **GA4, GTM, Hotjar, Looker Studio, and Zapier/Make**.  
-It demonstrates how to run a growth diagnostic, design experiments, and visualize impact in a structured workflow.  
+This repository documents **growth & analytics experiments** for *[Eurus Concept](https://eurusconcept.com/)*.  
+All cases are built on **synthetic data** and are designed to demonstrate how  
+modern growth teams run diagnostics, design experiments, and drive decisions  
+using analytics tools and experimentation frameworks.  
 
----
+## Tools in Use
+- **GA4 + GTM** → Event & funnel tracking  
+- **Hotjar** → Heatmaps & session recordings  
+- **Looker Studio** → Funnel dashboards, CAC/ROAS visualization  
+- **Make & Zapier** → Automation & integrations  
+- **GitHub** → Repository for all reports and documentation
+  
 
-## Contents  
-- **exp001_looker.png** → Funnel & CAC/ROAS dashboard from Looker Studio  ![Eurus-Concept---Growth-Funnel-Optimization-Project](/EXP1/Eurus_Looker_.pdf)
-- **hotjar_report_exp001.pdf** → Heatmap & behavior insights (synthetic Hotjar analysis)  ![Eurus-Concept---Growth-Funnel-Optimization-Project](/EXP1/exp002_hotjar_report.pdf)
-- **gtm_report_exp001.md** → Event tracking audit & recommendations (synthetic GTM report)   ![Eurus-Concept---Growth-Funnel-Optimization-Project](/EXP1/exp003_gtm_report.pdf)
-- **Synthetic Test Data"" → ![Eurus-Concept---Growth-Funnel-Optimization-Project](/EXP1/sessions_daily.csv)
+## Experiments
 
----
+## EXPERIMENT_1:
+-Case overview: Funnel conversion, bottlenecks (checkout drop-off), CAC & ROAS insights
+-Documentatiom: [Eurus-Concept---Growth-Funnel-Optimization-Project](EXP1/)  
+-Tool's used: GA4, GTM, Hotjar, [Looker Studio](https://lookerstudio.google.com/reporting/da2d8565-3fbd-4b12-8324-87f5cf138ba4), 
 
-## Methodology  
+- 
 
-1. **Acquisition Diagnostic**  
-   - Metrics: CAC, ROAS, ARPU
-   - Methods: Incrementality test (geo-holdout), attribution model comparison  
-
-2. **Funnel Diagnostic**  
-   - Funnel: Session → Signup → Activation → Purchase  
-   - Metrics: Signup CR, Activation CR, Purchase CR  
-   - Guardrails: Bounce rate, latency, churn  
-
-3. **Behavioral Insights**  
-   - Hotjar heatmaps → Identified checkout friction (shipping fee bottleneck)  
-   - Survey triggers → 25% complain about “unexpected fees”  
-
-4. **Tracking Audit**  
-   - GTM setup checked for missing events (checkout_error, kyc_fail)  
- 
-
----
-
-## Key Findings  
-
-- **Bottleneck** → Activation to Purchase step (shipping fee friction).  
-- **Channel efficiency** → TikTok Mobile had lower CAC vs Meta Mobile.  
-- **Seasonality** → Revenue spikes early in the month (promotion impact).  
-
----
-
-## Tools Used  
-- **GA4** → Traffic & conversion metrics  
-- **GTM** → Event tracking & attribution  
-- **Hotjar** → Heatmap & session recordings  
-- **Looker Studio** → Funnel dashboards & anomaly detection  
-- **Zapier/Make** → Workflow automation (alerts, reporting)  
-- **GitHub** → Repository for synthetic case study  
+## Notes
+- All reports are **experimental** and based on synthetic datasets.  
+- Concepts such as **ICE framework, guardrails, multi-armed bandits, response curves, seasonality, and attribution models**  
+are applied and explained within each experiment’s documentation.  
 
 ---
