@@ -12,6 +12,7 @@
   - Channel/device breakdown: mobile higher abandonment than desktop.  
 ![Eurus-Concept---Growth-Funnel-Optimization-Project](checkout_abondonments_rate.png)
   - Attribution check: No over-attribution bias (organic vs paid consistent).
+
 ![Eurus-Concept---Growth-Funnel-Optimization-Project](attribition_chart.png)
 
 - **Qual data (Hotjar):**
