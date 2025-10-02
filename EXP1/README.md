@@ -22,9 +22,8 @@
 
 ## 3. Experiment Design
 - **Hypothesis:** Include shipping fee upfront on product page reduces checkout drop-off.
-![Eurus-Concept---Growth-Funnel-Optimization-Project](checkout_fee.png)
-![Eurus-Concept---Growth-Funnel-Optimization-Project](LP_fee.png)
-  
+- ![Eurus-Concept---Growth-Funnel-Optimization-Project](LP_fee.png)
+-![Eurus-Concept---Growth-Funnel-Optimization-Project](checkout_fee.png)
 - **Setup:**  
   - **Randomization:** Stratified by device + channel (avoid Simpson’s paradox).  
   - **Holdout (20%)** → current flow (fee shown at checkout).  
