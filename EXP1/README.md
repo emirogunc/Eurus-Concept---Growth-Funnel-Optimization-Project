@@ -10,7 +10,7 @@
 - **Quant data (GA4, Looker Studio):**
   - Funnel drop-off report: checkout abandonment rate >65%.  
   - Channel/device breakdown: mobile higher abandonment than desktop.  
-![Eurus-Concept---Growth-Funnel-Optimization-Project](EXP1/checkout_abondonments_rate.png)
+![Eurus-Concept---Growth-Funnel-Optimization-Project](checkout_abondonments_rate.png)
 
 - **Qual data (Hotjar):**
   - Heatmaps → high hover on price info, exit spikes at checkout step 2.  
