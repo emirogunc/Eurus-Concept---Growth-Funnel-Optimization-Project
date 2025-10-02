@@ -23,7 +23,7 @@ using analytics tools and experimentation frameworks.
 - 
 
 ## Notes
-- All reports are **experimental** and based on synthetic datasets.  
+- All reports are **experimental** and based on real&synthetic combined datasets.  
 - Concepts such as **ICE framework, guardrails, multi-armed bandits, response curves, seasonality, and attribution models**  
 are applied and explained within each experiment’s documentation.  
 
