@@ -10,7 +10,7 @@
 - **Quant data (GA4, Looker Studio):**
   - Funnel drop-off report: checkout abandonment rate >65%.  
   - Channel/device breakdown: mobile higher abandonment than desktop.  
-(EXP1/checkout_abondonments_rate.png)
+!(EXP1/checkout_abondonments_rate.png)
 - **Qual data (Hotjar):**
   - Heatmaps → high hover on price info, exit spikes at checkout step 2.  
 - **Attribution check:** No over-attribution bias (organic vs paid consistent).  
