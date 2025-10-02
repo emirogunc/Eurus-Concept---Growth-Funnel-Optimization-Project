@@ -21,7 +21,7 @@
 ---
 
 ## 3. Experiment Design
-- **Hypothesis:** Showing shipping fee upfront on product page reduces checkout drop-off.  
+- **Hypothesis:** Include shipping fee upfront on product page reduces checkout drop-off.  
 - **Setup:**  
   - **Randomization:** Stratified by device + channel (avoid Simpson’s paradox).  
   - **Holdout (20%)** → current flow (fee shown at checkout).  
