@@ -9,7 +9,7 @@
 ## 2. Diagnostic Framework
 - **Quant data (GA4, Looker Studio):**
   - Funnel drop-off report: checkout abandonment rate >65%.  
-  - Channel/device breakdown: mobile higher abandonment than desktop.  
+  - Channel/device breakdown: desktop higher abandonment than mobile.  
 ![Eurus-Concept---Growth-Funnel-Optimization-Project](checkout_abondonments_rate.png)
   - Attribution check: No over-attribution bias (organic vs paid consistent).
 
