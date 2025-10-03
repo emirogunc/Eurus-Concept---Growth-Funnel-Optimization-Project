@@ -9,9 +9,8 @@ using analytics tools and experimentation frameworks.
 
 - Funnel & Acquisition
 
-  *EXP1. In GA4 funnel analysis, you detect a 30% drop-off at checkout. How would you use Hotjar signals to diagnose friction and propose fixes?
 
-# Experiment_1:
+*EXP1. In GA4 funnel analysis, you detect a 30% drop-off at checkout. How would you use Hotjar signals to diagnose friction and propose fixes?
 -Case overview: Funnel conversion, bottlenecks (checkout drop-off), CAC & ROAS insights
 -Documentatiom: [Eurus-Concept---Growth-Funnel-Optimization-Project](EXP1/)  
 -Tool's used: GA4, GTM, Hotjar, [Looker Studio](https://lookerstudio.google.com/reporting/da2d8565-3fbd-4b12-8324-87f5cf138ba4), 
