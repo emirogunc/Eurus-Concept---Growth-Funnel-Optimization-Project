@@ -79,7 +79,7 @@ GEO-Level Results:
 
 ---
 
-### Step 4 — Budget Reallocation Simulation
+### Step 3 — Budget Reallocation Simulation
 ​
 | Geo    | Old Spend (€) | iROAS | Suggested New Spend (€) | Δ       |
 | ------ | ------------- | ----- | ----------------------- | ------- |
