@@ -49,9 +49,13 @@ Step 3 — Incrementality via Geo-Holdout
 Formulas applied:
 
 Scale= Session(test)/Session(Holdout)
+
 iConv= Purchase(t)-Purchase(h)xscale
+
 iRev= Revenue(t)-Revenue(h)xscale
+
 iCAC= Spend(t)/iConv
+
 iROAS= iREV/Spenc(t)
 ​
 
