@@ -47,7 +47,7 @@ Goal: validate true incremental ROI and reallocate spend accordingly.
 | Mobile  | 0.47–0.49 | 150–165 | Slightly less efficient |
 <img width="512" height="512" alt="ROAS" src="https://github.com/user-attachments/assets/652276ce-05b6-4e14-971f-c94a7c2cac5d" />
 
-Step 3 — Incrementality via Geo-Holdout
+### Step 3 — Incrementality via Geo-Holdout
 
 Formulas applied:
 
@@ -73,7 +73,7 @@ GEO-Level Results:
 | NL-ZH  | **+0.13** | +11   | +719     | Positive, scalable          |
 | NL-NH  | n/a       | —     | —        | Missing holdout data        |
 
-Step 4 — Budget Reallocation Simulation
+### Step 4 — Budget Reallocation Simulation
 ​
 | Geo    | Old Spend (€) | iROAS | Suggested New Spend (€) | Δ       |
 | ------ | ------------- | ----- | ----------------------- | ------- |
@@ -96,15 +96,15 @@ Guardrails & Governance:
 | Metrics of truth   | iRev, iConv     | Ignore platform ROAS noise |
 
 
-Summary
+### Summary
 
-Findings:
+## Findings:
 
 Paid Search looked healthy via last-click, yet only ~30 % of spend was truly incremental.
 
 NL-ZH drives real lift; BE-BRU & LU-LUX are wasted budget.
 
-Next Step:
+## Next Step:
 
 Run another 4-week geo-holdout validation after redistribution.
 
