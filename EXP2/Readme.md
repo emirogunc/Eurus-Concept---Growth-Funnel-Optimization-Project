@@ -19,7 +19,7 @@ Goal: validate true incremental ROI and reallocate spend accordingly.
 
 ## 2️⃣ Data Overview  
 
-**File:** `eurus_exp_bible_weekly (1).csv`  
+**File:** ![Eurus-Concept---Growth-Funnel-Optimization-Project](eurus_exp_bible_weekly.csv)
 **Period:** 2023-10 → 2025-09  
 **Type:** Syhentetic
 
@@ -37,6 +37,8 @@ Goal: validate true incremental ROI and reallocate spend accordingly.
 ## Step-by-Step Analysis  
 
 ### Step 1 — Last-Click Performance (Last 8 Weeks)
+
+![Eurus-Concept---Growth-Funnel-Optimization-Project](Paid_Search___Last_8_Weeks_by_Device___Channel__LC_ROAS__CAC_.csv)
 
 | Device  | LC-ROAS   | CAC (€) | Notes                   |
 | ------- | --------- | ------- | ----------------------- |
