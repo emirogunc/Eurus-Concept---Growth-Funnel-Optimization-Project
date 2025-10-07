@@ -1,5 +1,5 @@
 # EXP-002: Paid Search Incrementality vs Platform ROAS  
-### Author: Emir Öğünç · Dataset: `eurus_exp_bible_weekly.csv`
+Dataset: `/eurus_exp_bible_weekly.csv`
 
 ---
 
