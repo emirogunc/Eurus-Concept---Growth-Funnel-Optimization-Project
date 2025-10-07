@@ -63,6 +63,9 @@ iROAS= iREV/Spenc(t)
 
 GEO-Level Results:
 
+![Eurus-Concept---Growth-Funnel-Optimization-Project](Paid_Search___Geo_Incrementality__Holdout_vs_Test_.csv)
+
+
 | Geo    | iROAS     | iConv | iRev (€) | Comment                     |
 | ------ | --------- | ----- | -------- | --------------------------- |
 | BE-BRU | -0.12     | -9.1  | -652     | Negative incremental impact |
