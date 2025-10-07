@@ -57,7 +57,52 @@ iRev= Revenue(t)-Revenue(h)xscale
 iCAC= Spend(t)/iConv
 
 iROAS= iREV/Spenc(t)
+
+GEO-Level Results:
+
+| Geo    | iROAS     | iConv | iRev (€) | Comment                     |
+| ------ | --------- | ----- | -------- | --------------------------- |
+| BE-BRU | -0.12     | -9.1  | -652     | Negative incremental impact |
+| LU-LUX | -0.11     | -4.6  | -471     | Negative                    |
+| NL-ZH  | **+0.13** | +11   | +719     | Positive, scalable          |
+| NL-NH  | n/a       | —     | —        | Missing holdout data        |
+
+Step 4 — Budget Reallocation Simulation
 ​
+| Geo    | Old Spend (€) | iROAS | Suggested New Spend (€) | Δ       |
+| ------ | ------------- | ----- | ----------------------- | ------- |
+| BE-BRU | 5,352         | -0.12 | 0                       | ↓ -5.3k |
+| LU-LUX | 4,249         | -0.11 | 0                       | ↓ -4.2k |
+| NL-ZH  | 5,531         | +0.13 | **14,600**              | ↑ +9.1k |
+| NL-NH  | 8,023         | n/a   | **8,400**               | ≈ same  |
+
+Result:
+Reallocating 23k€ total spend purely to positive-incremental geos raises overall iROAS ≈ +25%, even if total spend stays flat.
+
+Guardrails & Governance:
+
+| Guardrail          | Limit           | Purpose                    |
+| ------------------ | --------------- | -------------------------- |
+| Spend drop per geo | ≤ 70 %          | Avoid sharp traffic loss   |
+| iROAS < 0          | Cut 80 % budget | Stop negative ROI          |
+| iROAS > 0.5        | +30 % boost     | Scale winning geos         |
+| Evaluation window  | 4–6 weeks       | Seasonal smoothing         |
+| Metrics of truth   | iRev, iConv     | Ignore platform ROAS noise |
+
+
+Summary
+
+Findings:
+
+Paid Search looked healthy via last-click, yet only ~30 % of spend was truly incremental.
+
+NL-ZH drives real lift; BE-BRU & LU-LUX are wasted budget.
+
+Next Step:
+
+Run another 4-week geo-holdout validation after redistribution.
+
+Monitor incremental conversions vs spend in Looker Studio dashboard.
 
 
 
