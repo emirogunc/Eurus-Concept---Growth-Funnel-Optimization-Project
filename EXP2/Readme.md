@@ -21,7 +21,7 @@ Goal: validate true incremental ROI and reallocate spend accordingly.
 
 **File:** `eurus_exp_bible_weekly (1).csv`  
 **Period:** 2023-10 → 2025-09  
-**Rows:** 5,880 | **Columns:** 21  
+**Type:** Syhentetic
 
 | Column | Example | Description |
 |---------|----------|-------------|
