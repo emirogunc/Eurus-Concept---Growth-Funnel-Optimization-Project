@@ -34,12 +34,16 @@ Goal: validate true incremental ROI and reallocate spend accordingly.
 
 ---
 
-## 3️⃣ Step-by-Step Analysis  
+## Step-by-Step Analysis  
 
-### 🧩 Step 1 — Data Audit  
-- Verified structure, separators, and column integrity.  
-- Confirmed weekly granularity and holdout flags.  
+### Step 1 — Last-Click Performance (Last 8 Weeks)
 
-```python
-df.columns
-['week_start','geo','device','channel','purchases','revenue','spend','holdout_flag', ...]
+| Device  | LC-ROAS   | CAC (€) | Notes                   |
+| ------- | --------- | ------- | ----------------------- |
+| Desktop | 0.55–0.63 | 120–160 | Relatively efficient    |
+| Mobile  | 0.47–0.49 | 150–165 | Slightly less efficient |
+<img width="1024" height="1024" alt="ROAS" src="https://github.com/user-attachments/assets/652276ce-05b6-4e14-971f-c94a7c2cac5d" />
+
+
+
+
