@@ -42,7 +42,7 @@ Goal: validate true incremental ROI and reallocate spend accordingly.
 | ------- | --------- | ------- | ----------------------- |
 | Desktop | 0.55–0.63 | 120–160 | Relatively efficient    |
 | Mobile  | 0.47–0.49 | 150–165 | Slightly less efficient |
-<img width="1024" height="1024" alt="ROAS" src="https://github.com/user-attachments/assets/652276ce-05b6-4e14-971f-c94a7c2cac5d" />
+<img width="512" height="512" alt="ROAS" src="https://github.com/user-attachments/assets/652276ce-05b6-4e14-971f-c94a7c2cac5d" />
 
 Step 3 — Incrementality via Geo-Holdout
 
