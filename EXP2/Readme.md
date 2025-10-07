@@ -20,6 +20,7 @@ Goal: validate true incremental ROI and reallocate spend accordingly.
 ## 2️⃣ Data Overview  
 
 **File:** ![Eurus-Concept---Growth-Funnel-Optimization-Project](eurus_exp_bible_weekly.csv)
+
 **Period:** 2023-10 → 2025-09  
 **Type:** Syhentetic
 
