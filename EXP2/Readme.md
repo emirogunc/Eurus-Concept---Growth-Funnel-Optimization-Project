@@ -3,7 +3,7 @@ Dataset: `/eurus_exp_bible_weekly.csv`
 
 ---
 
-## 1️⃣ Experiment Context  
+## Experiment Context  
 
 **Hypothesis:**  
 Paid Search campaigns show strong *last-click ROAS* on platform dashboards — yet actual incrementality (via geo-holdout) may be weak.  
