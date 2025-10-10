@@ -9,7 +9,7 @@ Automatically collect daily paid-media metrics and send a unified summary to Goo
 
 How it works:
 
-A synthetic CSV dataset ![Eurus-Concept---Growth-Funnel-Optimization-Project](/eurus_paid_reporting_auto.csv(eurus_paid_reporting_auto.csv) simulates daily spend, clicks, revenue, and ROAS for three channels: Meta, TikTok, and Google Search.
+A synthetic CSV dataset ![Eurus-Concept---Growth-Funnel-Optimization-Project](/Eurus-Concept---Growth-Funnel-Optimization-Project) simulates daily spend, clicks, revenue, and ROAS for three channels: Meta, TikTok, and Google Search.
 
 Make parses the JSON or CSV, iterates through each channel, and appends the data to a Google Sheet (Eurus Paid Report).
 
