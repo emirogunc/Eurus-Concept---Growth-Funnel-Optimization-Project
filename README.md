@@ -9,7 +9,7 @@ using analytics tools and experimentation frameworks.
 
 - Funnel & Acquisition
 
-1. In GA4 funnel analysis, you detect a 30% drop-off at checkout. How would you use Hotjar signals to diagnose friction and propose fixes?
+# EXP1. In GA4 funnel analysis, you detect a 30% drop-off at checkout. How would you use Hotjar signals to diagnose friction and propose fixes?
 
 -Case overview: Funnel conversion, bottlenecks (checkout drop-off), CAC & ROAS insights
 
@@ -19,9 +19,27 @@ using analytics tools and experimentation frameworks.
 
 ----------
 
-2. Your Looker Studio dashboard shows CAC rising while CTR is flat. What guardrail metrics would you define and what action would you take?
-   
+# EXP2. Paid Search campaigns show strong last-click ROAS, but geo-holdouts reveal weak incrementality. How would you reallocate budgets to maximize iCAC efficiency?
 
+-Case overview: Intermental ROAS calcutalion. 
+
+-Documentation: [Eurus-Concept---Growth-Funnel-Optimization-Project](EXP2/)  
+
+-Tool's used: GA4, GTM, BigQuery, Looker Studio
+
+----------
+
+3. Your Looker Studio dashboard shows CAC rising while CTR is flat. What guardrail metrics would you define and what action would you take?
+   
+-Case overview: Setting up automations for daily paid marketing stats & guardrails thorugh MAKE.com
+
+-Documentation: [Eurus-Concept---Growth-Funnel-Optimization-Project](EXP3/)  
+
+-Tool's used: MAKE
+
+----------
+
+-Tool's used: GA4, GTM, BigQuery, Looker Studio
 
 ## Tools in Use
 - **GA4 + GTM** → Event & funnel tracking  
