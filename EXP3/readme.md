@@ -11,11 +11,11 @@ How it works:
 
 A synthetic CSV dataset ![Eurus-Concept---Growth-Funnel-Optimization-Project](eurus_paid_reporting_auto.csv) simulates daily spend, clicks, revenue, and ROAS for three channels: Meta, TikTok, and Google Search.
 
-EXP3/eurus_paid_reporting_auto.csv
-
 Make parses the JSON or CSV, iterates through each channel, and appends the data to a Google Sheet (Eurus Paid Report).
 
 A final Slack message summarizes daily performance with spend, revenue, and ROAS.
+
+<img width="1406" height="636" alt="paid reporting - daily" src="https://github.com/user-attachments/assets/a8417d0a-5157-4e85-b60d-2e0bdf286f15" />
 
 Purpose:
 Removes manual reporting work and provides instant visibility for the team each morning.
@@ -34,6 +34,8 @@ Each morning, Make reads the latest data from the Google Sheet.
 It checks for anomalies where ROAS < 1.5, CTR < 0.01, or Spend > 500.
 
 If any condition is true, a Slack alert is triggered with channel-level details.
+
+<img width="1387" height="688" alt="guardrails daily drop" src="https://github.com/user-attachments/assets/be4b5ec0-f838-4524-93d8-ec446a8f9d52" />
 
 Purpose:
 Acts as an early-warning system for paid campaigns, ensuring performance issues are caught immediately.
