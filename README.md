@@ -29,7 +29,7 @@ using analytics tools and experimentation frameworks.
 
 ----------
 
-3. Your Looker Studio dashboard shows CAC rising while CTR is flat. What guardrail metrics would you define and what action would you take?
+# EXP3. What Make/Zapier automations would you set up to reduce manual work in paid acquisition reporting?
    
 -Case overview: Setting up automations for daily paid marketing stats & guardrails thorugh MAKE.com
 
