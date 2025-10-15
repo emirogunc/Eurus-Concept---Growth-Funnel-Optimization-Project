@@ -5,9 +5,7 @@ All cases are built on **synthetic data** and are designed to demonstrate how
 modern growth teams run diagnostics, design experiments, and drive decisions  
 using analytics tools and experimentation frameworks.  
 
-## Case Subjects/Problems:
-
-- Funnel & Acquisition
+--------------------------------------------------
 
 # EXP1. In GA4 funnel analysis, you detect a 30% drop-off at checkout. How would you use Hotjar signals to diagnose friction and propose fixes?
 
